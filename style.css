@@ -1,0 +1,17 @@
+
+.brand-gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,70,0.7005649717514124) 35%, rgba(0,212,255,1) 100%);
+}
+.banner-holder, .main-page-header{
+    background-image: url(img/banner.jpg);
+    background-size: cover;
+    background-position: bottom;
+}  
+.custome-nav{
+    backdrop-filter: blur(8px);
+}
+.page-header-holder h1, p{
+    text-align: center;
+    align-items: center;
+}
